@@ -34,5 +34,21 @@ h2{
 }
 h3{
     font-weight: normal;
-    font-size: 40px;
+    font-size: 30px;
+}
+.coustomer{
+    display: flex;
+}
+.coustomer-service{
+    display: flex;
+    width: 30px;
+}
+.service{
+    display: flex;
+}
+.service div{
+    background-color: brown;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
 }
