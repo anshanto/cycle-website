@@ -47,8 +47,18 @@ h3{
     display: flex;
 }
 .service div{
-    background-color: brown;
-    border: 1px solid gray;
     width: 200px;
     height: 200px;
+    padding-left: 8%;
+}
+.coustomer-review{
+    display: flex;
+}
+.coustomer-review div{
+    width: 200px;
+    height: 200px;
+    padding-left: 10%;
+}
+.coustomer-review div img{
+    border-radius: 50%;
 }
